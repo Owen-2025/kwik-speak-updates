@@ -1,0 +1,1 @@
+This tiny repo hosts only the update-check manifest (version, notes, signature) for Kwik Speak's auto-updater. It's public and non-sensitive by design — the actual app binary lives in the private kwik-speak repo and requires an auth token to download.
