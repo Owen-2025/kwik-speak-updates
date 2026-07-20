@@ -1,11 +1,11 @@
 {
-  "version": "0.1.10",
+  "version": "0.1.11",
   "notes": "See the GitHub release for details.",
-  "pub_date": "2026-07-19T16:38:40Z",
+  "pub_date": "2026-07-20T12:28:52Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaE5zL1pvWWdzUGQ0YUc2SnhpMDhQWEFRTDZMcGVvZ3BsN0NrbjdxWFNQT0Nlc09PMlJISnRtQk9XVDJOZHFMMjdrbFJVcWx1ekRyTm1GSzB4eVNnNUlIRHNaYkpZWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NDc4OTg5CWZpbGU6S3dpa1NwZWFrLmFwcC50YXIuZ3oKREEvbHo1cVdEM3lTaXRnMFMwdkpQYzRkTTgxWmIzK20xZHo2SHQzaE5oTVR4bklTZlQ2ZVB6K2UwcEZLYTlra1JPbGJRSjRuaDRPS1FMNzEzeW5YRHc9PQo=",
-      "url": "https://api.github.com/repos/Owen-2025/kwik-speak/releases/assets/482554390"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSaE5zL1pvWWdzUGIrSWdWQkpCVFJkeE9UZkhKNnJEM3ZLaUpEUlYrL1R0bS90Z0pvR3JBbmNVMnBuRTlEdDYyWnB4TjY5YmlSUThwNlgvVnlTR1pvV1owWjQ3c25RRkFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NTUwMzkxCWZpbGU6S3dpa1NwZWFrLmFwcC50YXIuZ3oKV04wbkxxOEV2MWZBTTFPT2RMdnF1Z3NlWVhuV0kvVG9mZFhhbFFqYmQ0OHNrWXRiOXNVUW02dGhUVStPZjhLUklsNGVDbXpXcGYzYTByaDdXNTROQ2c9PQo=",
+      "url": "https://api.github.com/repos/Owen-2025/kwik-speak/releases/assets/483438232"
     }
   }
 }
